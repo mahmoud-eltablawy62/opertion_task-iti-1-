@@ -13,7 +13,6 @@ namespace Program
             Console.WriteLine($"num * num2 = {num * num2}");
             Console.WriteLine($"num / num2 = {num / num2}");
             Console.WriteLine($"num - num2 = {num - num2}");
-            Console.WriteLine(-1 + 4 * 6);
         }
     }
 }

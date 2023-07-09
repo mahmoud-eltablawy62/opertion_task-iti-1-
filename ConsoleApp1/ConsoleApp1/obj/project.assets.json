@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tasks\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\tasks\\opertion_task-iti-1-\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\tasks\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\tasks\\opertion_task-iti-1-\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\CompuMisr\\.nuget\\packages\\",
-      "outputPath": "D:\\tasks\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\tasks\\opertion_task-iti-1-\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CompuMisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
